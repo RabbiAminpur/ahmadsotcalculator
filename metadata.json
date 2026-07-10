@@ -1,0 +1,6 @@
+{
+  "name": "Ahmad's OverTime Calculator",
+  "description": "A beautiful, dark-mode mobile-first application to track daily work and overtime hours, manage hourly and overtime earnings, and visualize monthly payroll statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
